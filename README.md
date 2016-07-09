@@ -1,0 +1,2 @@
+# ProjectEuler
+Learning go
